@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-dsdfq
-=======
 nu in test branch
->>>>>>> test
+
